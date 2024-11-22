@@ -1,0 +1,59 @@
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.stacktrace
+
+# Unity auto-generated settings
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity crash and debug files
+*.pidb.meta
+*.pdb
+*.mdb
+*.ilk
+*.obj
+*.lib
+
+# Unity generated files
+*.aps
+*.ncb
+*.sdf
+*.opendb
+*.VC.db
+
+# Build results
+/[Bb]uild/
+/[Bb]uilds/
+/[Aa]ssets/**/StreamingAssets/
+
+# Cache and temporary files
+*.apk
+*.unitypackage
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Rider IDE
+.idea/
+*.iml
+
+# JetBrains Rider
+.idea/
+*.dotSettings
